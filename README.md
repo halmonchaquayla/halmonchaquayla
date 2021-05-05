@@ -8,8 +8,3 @@ I'm currently learning python, machine learning, sql, pandas, seaborn, nlp, etc.
 
 Graphs created with the help of this repository: [https://github.com/anuraghazra/github-readme-stats#demo](url)
 
-<!-- in your header -->
-<h><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css"></h>
-
-<!-- in your body -->
-<b><i class="devicon-csharp-line colored"></i></b>
