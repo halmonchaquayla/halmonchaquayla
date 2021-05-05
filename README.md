@@ -2,4 +2,4 @@
 Right now, I'm interested in games and being "healthy". Struggle is super real.
 I'm currently learning python, machine learning, sql, pandas, seaborn, nlp, etc.
 
-[![Quayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=halmonchaquayla)](https://github.com/anuraghazra/github-readme-stats)
+[![Quayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=halmonchaquayla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
