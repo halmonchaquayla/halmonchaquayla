@@ -5,3 +5,5 @@ I'm currently learning python, machine learning, sql, pandas, seaborn, nlp, etc.
 [![Quayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=halmonchaquayla&show_icons=true&theme=radical)](https://github.com/halmonchaquayla/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halmonchaquayla)](https://github.com/halmonchaquayla/github-readme-stats)
+
+Graphs created with the help of this repository: [https://github.com/anuraghazra/github-readme-stats#demo](url)
